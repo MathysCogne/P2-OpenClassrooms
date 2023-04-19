@@ -7,9 +7,6 @@
 
 ![](https://forthebadge.com/images/badges/built-with-love.svg)
 
-&nbsp;
-
-&nbsp;
 ## Description
 
 Projet deux du parcours développeur front-end de chez OpenClassrooms
